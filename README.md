@@ -52,10 +52,6 @@ Support is always optional and helps fund continued development.
 
 If the project receives enough support, I'd like to use it to take on larger ideas in the future — including projects that may require running servers, databases, or other hosted infrastructure.
 
-No features are locked behind donations.
-
-Support is always optional and helps fund continued development.
-
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/chaewonylabs)
 
 No features are locked behind donations.
